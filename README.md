@@ -3,6 +3,7 @@
  
    Coté métier (Dans le langage Java):
        Un convertisseur opensource dénommé "docs-to-pdf-converter-1.8", développé par Yeo Kheng Meng
+       
        Des processus de gestion des connexions utilisateurs, des conversion et des hébergements des fichiers					
 							
    Controlleur (Sous forme de servlets)					
