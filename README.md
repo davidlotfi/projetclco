@@ -18,6 +18,11 @@
 
 ## la manière de gestion de demandes des clients 
  Un service client de qualité permet également de fidéliser les clients, en facilitant la gestion et le traitement.
+Plusieurs entités du convertisseur seront déployés sous forme de Thread-Pool. 
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/0/0c/Thread_pool.svg)
+ 
+ Ces derniers receveront les demandes de conversions des clients dispatchés par le controleur MVC (la servlet J2E), qui sont à leurs tour stockés dans une file d'attente triée par date d'arrivée (indépedemment du client qui a lancé la requête).
  
 ## les technologies choisires 
  github pour placer l'application et d'une autre part faire le colaboration et notifier l'avancement dans la réalisation de projet.
