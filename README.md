@@ -32,3 +32,12 @@
 Le client doit se connecter en utilisant son e-mail et son password s'il possède déjà un compte. Dans le cas échéant, il va devoir créer un nouveau compte.
 
 ![image](https://user-images.githubusercontent.com/44125253/49077765-69b18000-f23c-11e8-8f66-b74872cd7b25.png)
+
+## Upload du fichier:
+L'utilisateur sera alors mené vers une page web ou il pourra uploader un fichier dans l'un des formats: Docx ou Pptx. Il pourra aussi choisir s'il veut ou non recevoir le fichier converti par e-mail.
+
+![image](https://user-images.githubusercontent.com/44125253/49079419-cfa00680-f240-11e8-8967-6ed8d23b39ab.png)
+
+Une fois l'opération validée, il sera redirigé vers une autre page montrant le statut chaque conversion qu'il a lancé (En attente, en cours, terminée). Lorsqu'un document est converti, le client disposera de 5 minutes pour le télécharger depuis la page de statut. Le fichier sera supprimé si le délai est dépassé. 
+
+Un utilisateur ne peut effectuer que 2 cnversions à la fois.
