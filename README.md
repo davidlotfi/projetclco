@@ -31,8 +31,4 @@
 ## Connexion du Client:
 Le client doit se connecter en utilisant son e-mail et son password s'il possède déjà un compte. Dans le cas échéant, il va devoir créer un nouveau compte.
 
-<p align="center">
-  <img src=![image](https://user-images.githubusercontent.com/44125253/49077765-69b18000-f23c-11e8-8f66-b74872cd7b25.png)>
-</p>
-
-<center> ![image](https://user-images.githubusercontent.com/44125253/49077765-69b18000-f23c-11e8-8f66-b74872cd7b25.png)</center>
+![image](https://user-images.githubusercontent.com/44125253/49077765-69b18000-f23c-11e8-8f66-b74872cd7b25.png)
