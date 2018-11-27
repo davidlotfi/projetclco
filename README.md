@@ -1,5 +1,5 @@
 # Architecture globale de l'application 
- ## MVC (Modèle Vue Contrôleur) en utilisant:
+## MVC (Modèle Vue Contrôleur) en utilisant:
  
    Coté métier (Dans le langage Java):
 
@@ -26,3 +26,6 @@
 	
  plateforme Cloud Openshift pour le déploiement de l'application.
 
+# Fonctionnement général
+## Connexion du Client:
+Le client doit se connecter en utilisant son e-mail et son password s'il possède déjà un compte. Dans le cas échéant, il va devoir créer un nouveau compte.
