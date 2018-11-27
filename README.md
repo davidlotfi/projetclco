@@ -40,4 +40,4 @@ L'utilisateur sera alors mené vers une page web ou il pourra uploader un fichie
 
 Une fois l'opération validée, il sera redirigé vers une autre page montrant le statut chaque conversion qu'il a lancé (En attente, en cours, terminée). Lorsqu'un document est converti, le client disposera de 5 minutes pour le télécharger depuis la page de statut. Le fichier sera supprimé si le délai est dépassé. 
 
-Un utilisateur ne peut effectuer que 2 cnversions à la fois.
+Un utilisateur ne peut effectuer que 2 conversions à la fois.
