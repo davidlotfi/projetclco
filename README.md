@@ -15,6 +15,9 @@
   La persistance des données (objets relationnels) des utlisateurs sera géré par le framework Hibernate.
   
   Les données seront ensuite stockés dans des BDD MySQL.
+  
+![image](https://user-images.githubusercontent.com/44125253/50881625-81a32480-13e2-11e9-8ee0-bd7432c83553.png)
+
 
 ## la manière de gestion de demandes des clients 
  Un service client de qualité permet également de fidéliser les clients, en facilitant la gestion et le traitement.
